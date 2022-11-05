@@ -1,0 +1,1 @@
+# repositório usado na prática de typescript nas aulas da Alpha EdTech
